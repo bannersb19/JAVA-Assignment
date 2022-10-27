@@ -1,0 +1,25 @@
+PS E:\python\number guessing game> cd "e:\python\number guessing game\" ; if ($?) { javac number.java } ; if ($?) { ja12
+Too low...
+Guess the number
+50
+Too low...
+Guess the number
+100
+Too high...
+Guess the number
+90
+Too high...
+Guess the number
+70
+Too high...
+Guess the number
+60
+Too low...
+Guess the number
+65
+Too low...
+Guess the number
+68
+Yes you guessed it right, it was 68
+You guessed it in 8 attempts
+PS E:\python\number guessing game>
